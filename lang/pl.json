@@ -61,7 +61,7 @@
   "MonksActiveTiles.UnknownEntity": "Nieznany podmiot",
   "MonksActiveTiles.ActiveScene": "Aktywna scena",
   "MonksActiveTiles.TriggeringTokenScene": "Token wyzwalający scenę",
-  "MonksActiveTiles.TokenVision": "Token musi mieć widoczność, aby mógł wyzwolić działanie",
+  "MonksActiveTiles.TokenVision": "Konieczna jest bezpośrednia widoczność kafelka",
   "MonksActiveTiles.DoorTriggers": "Wyzwalacze drzwi",
 
   "MonksActiveTiles.actiontext.pause": "<action>{pause} grę</action>",
